@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/vega-bit/NFT-preview-card-component]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://vega-bit.github.io/NFT-preview-card-component/]
 
 ## My process
 
